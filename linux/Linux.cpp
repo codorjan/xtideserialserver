@@ -35,7 +35,7 @@
 #include "../library/Library.h"
 #include "../library/FlatImage.h"
 
-#include "../../XTIDE_Universal_BIOS/Inc/Version.inc"
+#include "../library/Version.inc"
 
 const char *bannerStrings[] = {
 	"SerDrive - XTIDE Universal BIOS Serial Drive Server",
